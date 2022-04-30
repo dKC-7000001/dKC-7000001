@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python and Data Science
 - 💞️ I’m looking to collaborate on the above profile.
 - 📫 How to reach me @abhishekac1995@gmail.com or check my portfolio @ https://dkc-7000001.github.io/Portfolio/
-- 
 
 <!---
 dKC-7000001/dKC-7000001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
