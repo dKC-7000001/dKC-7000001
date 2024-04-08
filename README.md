@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek Chaudhary
-- 👀 I’m interested in Data Science and Data Visualization
+- 👀 I’m interested in Machine learning, Deep learning and Data Science
 - 🌱 I’m currently learning python and Data Science
 - 💞️ I’m looking to collaborate on the above profile.
 - 📫 How to reach me @abhishekac1995@gmail.com or check my portfolio @ https://dkc-7000001.github.io/Portfolio/
